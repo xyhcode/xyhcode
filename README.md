@@ -47,7 +47,7 @@
 
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@6abb9b87-56cd-4ada-b8fd-d0e3f8ba4129/6a2c4d0b-c89a-44e0-8809-494c7a7cbc8b.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@6abb9b87-56cd-4ada-b8fd-d0e3f8ba4129/a196816f-902b-44b5-8956-2b71bb69ab7d.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@6abb9b87-56cd-4ada-b8fd-d0e3f8ba4129/2c2c45e4-31b6-4042-be40-3212a8bbf9f0.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
