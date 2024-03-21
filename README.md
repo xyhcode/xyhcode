@@ -59,8 +59,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=xyhcode&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyhcode&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=xyhcode&show_icons=true&title_color=ffc857&icon_color=gray&text_color=gray&bg_color=fffff&hide=issues&count_private=true&include_all_commits=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyhcode&layout=compact&text_color=gray&bg_color=ffffff&hide=css,html,php)
 
 </a>
 
