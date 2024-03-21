@@ -10,12 +10,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭    I’m currently working on **Artificial intelligence**
 - 🤝    I hope to collaborate on learning and projects
-- 🌱    I’m currently learning Typescript;
+- 🌱    I’m currently learning Typescript
 - 👨🏻‍💻    Most of my projects are available on [Github](https://github.com/xyhcode?tab=repositories)
 - 🎨    Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬    Ask me about anything tech related, I am happy to help;
 - 📫    Feel free to ping me on [Telegram](https://t.me/@Hydsb0922)
-
+- 📖    Learn more about my projects on my [blog](https://www.hydsb0.com)
+- 🏞️    I want to travel around the world. Check out my [photo album](https://photo.hydsb0.com)
+- 🧑🏻‍🏫    I have a lot of students
 <br><br><br><br>
 
 ### 🔨 Languages and Tools:
