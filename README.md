@@ -16,8 +16,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬    Ask me about anything tech related, I am happy to help;
 - 📫    Feel free to ping me on [Telegram](https://t.me/@Hydsb0922)
 - 📖    Learn more about my projects on my [blog](https://www.hydsb0.com)
-- 🏞️    I want to travel around the world. Check out my [photo album](https://photo.hydsb0.com)
-- 🧑🏻‍🏫    I have a lot of students
+- 🏞️    I want to travel around the world. Check out my [photo album](https://photo.hydsb0.com)
+- 🧑🏻‍🏫    I have a lot of students
 <br><br><br><br>
 
 ### 🔨 Languages and Tools:
