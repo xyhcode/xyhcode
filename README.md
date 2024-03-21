@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬    Ask me about anything tech related, I am happy to help;
 - 📫    Feel free to ping me on [Telegram](https://t.me/@Hydsb0922)
 
-<br><br>
+<br><br><br><br>
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px" width="42px"/> </a>
