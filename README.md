@@ -18,8 +18,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📖    Learn more about my projects on my [blog](https://www.hydsb0.com)
 - 🏞️    I want to travel around the world. Check out my [photo album](https://photo.hydsb0.com)
 - 🧑🏻‍🏫    I have a lot of students
-<br><br><br><br>
-
 ### 🔨 Languages and Tools:
 
 ###
